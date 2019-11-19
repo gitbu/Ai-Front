@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Ai 前端技术博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Ai Team
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://gitbu.github.io/ai-front-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
